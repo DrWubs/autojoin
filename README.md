@@ -1,0 +1,4 @@
+autojoin
+========
+
+autojoin plug.dj
